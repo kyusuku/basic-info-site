@@ -1,0 +1,23 @@
+{
+  "name": "basic-info-site",
+  "version": "1.0.0",
+  "description": "This project is part of the Node.js course in The Odin Project. Its primary goal is to learn about Node.js by building a simple HTTP server that serves static HTML files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyusuku/basic-info-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyusuku/basic-info-site/issues"
+  },
+  "homepage": "https://github.com/kyusuku/basic-info-site#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
