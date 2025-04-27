@@ -21,7 +21,7 @@ This project is part of the Node.js course in The Odin Project. Its primary goal
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/kyusuku/basic-info-site
+   git clone https://github.com/kyusuku/basic-info-site.git
    cd basic-info-site
    ```
 
